@@ -26,7 +26,7 @@ export default function Contact() {
           <h2>Contact Information</h2>
 
           {[
-            { icon: '📧', label: 'Email', text: 'support@tokyodressing.in' },
+            { icon: '📧', label: 'Email', text: 'threeudyam@gmail.com' },
             { icon: '📞', label: 'Phone', text: '+91 97837 83369\nMon–Sat, 10 AM – 7 PM' },
             { icon: '📍', label: 'Address', text: 'Tokyo Dressing (PUNIT)\nBuilding No. 161, Gurugram Road\nManesar, Gurugram\nHaryana – 122101, India' },
             { icon: '🧾', label: 'GST Number', text: '06JCLPP1285E1ZB' },

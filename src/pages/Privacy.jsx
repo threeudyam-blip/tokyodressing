@@ -43,7 +43,7 @@ export default function Privacy() {
         <p>We retain your personal information for as long as necessary to fulfil the purposes outlined in this policy, unless a longer retention period is required by law.</p>
 
         <h2>7. Your Rights</h2>
-        <p>You have the right to access, correct, or delete your personal data. To exercise these rights, please contact us at privacy@tokyodressing.in</p>
+        <p>You have the right to access, correct, or delete your personal data. To exercise these rights, please contact us at threeudyam@gmail.com</p>
 
         <h2>8. Children's Privacy</h2>
         <p>Our services are not directed at children under 18 years of age. We do not knowingly collect personal information from minors.</p>
@@ -54,7 +54,7 @@ export default function Privacy() {
         <h2>10. Contact Us</h2>
         <p>For privacy-related questions, please contact:<br />
           Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
-          📧 privacy@tokyodressing.in · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
+          📧 threeudyam@gmail.com · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>
     </div>

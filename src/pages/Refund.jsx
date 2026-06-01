@@ -10,7 +10,7 @@ export default function Refund() {
         <h2>1. Order Cancellation</h2>
         <p>You can cancel your order free of charge before it has been dispatched from our warehouse.</p>
         <ul>
-          <li><strong>Before Dispatch:</strong> To cancel, please email us at support@tokyodressing.in or call +91 98765 43210 with your order ID. A full refund will be initiated instantly to your original payment method.</li>
+          <li><strong>Before Dispatch:</strong> To cancel, please email us at threeudyam@gmail.com or call +91 97837 83369 with your order ID. A full refund will be initiated instantly to your original payment method.</li>
           <li><strong>After Dispatch:</strong> Once an order has been handed over to our delivery partners, it cannot be cancelled. You must accept the delivery and initiate a return request instead.</li>
         </ul>
 
@@ -22,7 +22,7 @@ export default function Refund() {
         </ul>
 
         <h2>3. How to Initiate a Return</h2>
-        <p>To start a return, please contact us at returns@tokyodressing.in with your order number and the reason for return. Once approved, we will schedule a reverse pickup at no additional cost to you.</p>
+        <p>To start a return, please contact us at threeudyam@gmail.com with your order number and the reason for return. Once approved, we will schedule a reverse pickup at no additional cost to you.</p>
 
         <h2>4. Refund Processing</h2>
         <p>Once your returned item is received and inspected at our warehouse, we will notify you of the approval or rejection of your refund.</p>
@@ -37,7 +37,7 @@ export default function Refund() {
         <h2>6. Contact Us</h2>
         <p>For any questions regarding cancellations or refunds, please reach out to us:<br />
           Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
-          📧 returns@tokyodressing.in · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
+          📧 threeudyam@gmail.com · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>
     </div>
