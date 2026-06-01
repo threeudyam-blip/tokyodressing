@@ -8,7 +8,13 @@ export default function Footer() {
         <div className="footer-brand">
           <h2>Tokyo<span>Dressing</span></h2>
           <p>Curated urban fashion inspired by the streets of Tokyo. Bringing you the finest contemporary pieces delivered across India.</p>
-          <p style={{ marginTop: '0.5rem', color: 'rgba(255,255,255,.6)', fontSize: '0.85rem' }}>Sector 68, Sohna Road, Gurugram, Haryana 122101</p>
+          <p style={{ marginTop: '0.5rem', color: 'rgba(255,255,255,.6)', fontSize: '0.82rem', lineHeight: 1.7 }}>
+            Building No. 161, Gurugram Road, Manesar<br />Gurugram, Haryana – 122101<br />
+            📞 +91 97837 83369
+          </p>
+          <p style={{ marginTop: '0.5rem', color: 'rgba(255,255,255,.4)', fontSize: '0.75rem' }}>
+            GST: 06JCLPP1285E1ZB &nbsp;|&nbsp; Legal: PUNIT
+          </p>
           <div className="footer-social">
             {['📸', '🐦', '📌', '▶️'].map((icon, i) => (
               <span key={i} className="social-link" style={{ cursor: 'default' }}>{icon}</span>
@@ -61,7 +67,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Tokyo Dressing. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Tokyo Dressing (PUNIT) · GST: 06JCLPP1285E1ZB · All rights reserved.</p>
         <div className="footer-bottom-links">
           <Link to="/privacy">Privacy</Link>
           <Link to="/terms">Terms</Link>

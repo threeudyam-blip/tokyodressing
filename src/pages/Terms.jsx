@@ -57,8 +57,8 @@ export default function Terms() {
 
         <h2>9. Contact</h2>
         <p>For any queries regarding these Terms:<br />
-          Tokyo Dressing · Sector 68, Sohna Road, Gurugram, Haryana 122101<br />
-          📧 legal@tokyodressing.in · 📞 +91 98765 43210
+          Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
+          📧 legal@tokyodressing.in · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>
     </div>

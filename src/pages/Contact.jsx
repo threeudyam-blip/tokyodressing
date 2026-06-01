@@ -27,8 +27,9 @@ export default function Contact() {
 
           {[
             { icon: '📧', label: 'Email', text: 'support@tokyodressing.in' },
-            { icon: '📞', label: 'Phone', text: '+91 98765 43210\nMon–Sat, 10 AM – 7 PM' },
-            { icon: '📍', label: 'Address', text: 'Tokyo Dressing\nSector 68, Sohna Road\nGurugram, Haryana 122101\nIndia' },
+            { icon: '📞', label: 'Phone', text: '+91 97837 83369\nMon–Sat, 10 AM – 7 PM' },
+            { icon: '📍', label: 'Address', text: 'Tokyo Dressing (PUNIT)\nBuilding No. 161, Gurugram Road\nManesar, Gurugram\nHaryana – 122101, India' },
+            { icon: '🧾', label: 'GST Number', text: '06JCLPP1285E1ZB' },
           ].map(({ icon, label, text }) => (
             <div key={label} className="contact-detail">
               <span className="contact-icon">{icon}</span>

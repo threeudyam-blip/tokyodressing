@@ -47,7 +47,7 @@ export default function About() {
         <h2 className="section-title">People Behind the Brand</h2>
         <div className="team-grid">
           {[
-            { name: 'Ayesha Khan',    role: 'Founder & Creative Director', img: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80' },
+            { name: 'Punit',          role: 'Founder & Owner', img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80' },
             { name: 'Rohan Mehta',    role: 'Head of Curation',            img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80' },
             { name: 'Priya Sharma',   role: 'Brand & Marketing',           img: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80' },
             { name: 'Arjun Nair',     role: 'Operations & Logistics',      img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80' },

@@ -69,7 +69,7 @@ export default function Checkout() {
       amount:      total * 100,            // paise
       currency:    'INR',
       name:        'Tokyo Dressing',
-      description: 'Fashion Purchase',
+      description: 'Fashion Purchase | GST: 06JCLPP1285E1ZB',
       image:       '/favicon.svg',
       handler: function (response) {
         clearCart();
