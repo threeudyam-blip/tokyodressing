@@ -28,7 +28,7 @@ export default function Contact() {
           {[
             { icon: '📧', label: 'Email', text: 'threeudyam@gmail.com' },
             { icon: '📞', label: 'Phone', text: '+91 97837 83369\nMon–Sat, 10 AM – 7 PM' },
-            { icon: '📍', label: 'Address', text: 'Tokyo Dressing (PUNIT)\nBuilding No. 161, Gurugram Road\nManesar, Gurugram\nHaryana – 122101, India' },
+            { icon: '📍', label: 'Address', text: 'Tokyo Dressing\nbuilding no. 161 ,Gurgaon road,Manesar\nGurugram,Haryana,122101,Teekli BO,Haryana' },
             { icon: '🧾', label: 'GST Number', text: '06JCLPP1285E1ZB' },
           ].map(({ icon, label, text }) => (
             <div key={label} className="contact-detail">
@@ -40,11 +40,6 @@ export default function Contact() {
             </div>
           ))}
 
-          <div className="social-links">
-            {['📸', '🐦', '📌', '▶️'].map((icon, i) => (
-              <span key={i} className="social-link">{icon}</span>
-            ))}
-          </div>
         </div>
 
         {/* Form */}

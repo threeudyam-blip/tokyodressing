@@ -2,7 +2,7 @@ export default function Refund() {
   return (
     <div className="policy-page">
       <div className="policy-content">
-        <h1>Cancellation & Refund Policy</h1>
+        <h1>Refund & Returns Policy</h1>
         <p className="policy-date">Last updated: June 1, 2025</p>
 
         <p>At Tokyo Dressing, we want you to be completely satisfied with your purchase. Our Cancellation and Refund Policy outlines your rights and how we handle returns and cancellations in compliance with Razorpay and Cashfree merchant guidelines.</p>
@@ -36,7 +36,7 @@ export default function Refund() {
 
         <h2>6. Contact Us</h2>
         <p>For any questions regarding cancellations or refunds, please reach out to us:<br />
-          Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
+          Tokyo Dressing · building no. 161 ,Gurgaon road,Manesar,Gurugram,Haryana,122101,Teekli BO,Haryana<br />
           📧 threeudyam@gmail.com · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>

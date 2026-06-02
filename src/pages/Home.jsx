@@ -55,35 +55,27 @@ export default function Home() {
 
       {/* Hero */}
       <section className="hero">
-        <span className="hero-bg-word">TOKYO</span>
 
-        <div className="hero-eyebrow">
-          <span className="hero-eyebrow-dot" />
-          New Season — Urban Collection 2025
+        <div className="hero-content">
+          <h1>
+            Dress Like<br />
+            <em>Tokyo.</em><br />
+            <span className="accent-indigo">Live Anywhere.</span>
+          </h1>
+
+          <p className="hero-sub">
+            Curated street-to-studio fashion from the heart of urban culture. Discover pieces that speak louder than words.
+          </p>
+
+          <div className="hero-actions">
+            <button className="btn-primary" onClick={() => navigate('/shop')}>Shop the Collection</button>
+            <button className="btn-outline" onClick={() => navigate('/about')}>Our Story</button>
+          </div>
+
         </div>
 
-        <h1>
-          Dress Like<br />
-          <em>Tokyo.</em><br />
-          <span className="accent-indigo">Live Anywhere.</span>
-        </h1>
-
-        <p className="hero-sub">
-          Curated street-to-studio fashion from the heart of urban culture. Discover pieces that speak louder than words.
-        </p>
-
-        <div className="hero-actions">
-          <button className="btn-primary" onClick={() => navigate('/shop')}>Shop the Collection</button>
-          <button className="btn-outline" onClick={() => navigate('/about')}>Our Story</button>
-        </div>
-
-        <div className="hero-stats">
-          {[['12K+', 'Happy Customers'], ['200+', 'Curated Styles'], ['4.9★', 'Avg. Rating'], ['30', 'Day Returns']].map(([num, label]) => (
-            <div key={label} style={{ textAlign: 'center' }}>
-              <div className="hero-stat-num">{num}</div>
-              <div className="hero-stat-label">{label}</div>
-            </div>
-          ))}
+        <div className="hero-image">
+          <img src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&q=80&w=1200" alt="Urban Fashion" loading="lazy" />
         </div>
       </section>
 

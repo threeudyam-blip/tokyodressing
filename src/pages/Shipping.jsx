@@ -32,7 +32,7 @@ export default function Shipping() {
 
         <h2>7. Contact Information</h2>
         <p>If you have any further questions regarding shipping or your order status, please contact us at:<br />
-          Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
+          Tokyo Dressing · building no. 161 ,Gurgaon road,Manesar,Gurugram,Haryana,122101,Teekli BO,Haryana<br />
           📧 threeudyam@gmail.com · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>

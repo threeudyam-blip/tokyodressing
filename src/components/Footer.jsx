@@ -9,39 +9,33 @@ export default function Footer() {
           <h2>Tokyo<span>Dressing</span></h2>
           <p>Curated urban fashion inspired by the streets of Tokyo. Bringing you the finest contemporary pieces delivered across India.</p>
           <p style={{ marginTop: '0.5rem', color: 'rgba(255,255,255,.6)', fontSize: '0.82rem', lineHeight: 1.7 }}>
-            Building No. 161, Gurugram Road, Manesar<br />Gurugram, Haryana – 122101<br />
+            building no. 161 ,Gurgaon road,Manesar<br />Gurugram,Haryana,122101,Teekli BO,Haryana<br />
             📞 +91 97837 83369
           </p>
           <p style={{ marginTop: '0.5rem', color: 'rgba(255,255,255,.4)', fontSize: '0.75rem' }}>
-            GST: 06JCLPP1285E1ZB &nbsp;|&nbsp; Legal: PUNIT
+            GST: 06JCLPP1285E1ZB
           </p>
-          <div className="footer-social">
-            {['📸', '🐦', '📌', '▶️'].map((icon, i) => (
-              <span key={i} className="social-link" style={{ cursor: 'default' }}>{icon}</span>
-            ))}
-          </div>
         </div>
 
         {/* Quick Links */}
         <div className="footer-col">
-          <h3>Explore</h3>
+          <h3>Quick Links</h3>
           <ul>
-            <li><Link to="/shop">All Products</Link></li>
-            <li><Link to="/shop">New Arrivals</Link></li>
-            <li><Link to="/shop">Sale</Link></li>
-            <li><Link to="/about">Our Story</Link></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/shop">Shop</Link></li>
+            <li><Link to="/about">About Us</Link></li>
+            <li><Link to="/contact">Contact Us</Link></li>
           </ul>
         </div>
 
-        {/* Help */}
+        {/* Policies */}
         <div className="footer-col">
-          <h3>Help</h3>
+          <h3>Policies</h3>
           <ul>
-            <li><Link to="/contact">Contact Us</Link></li>
             <li><Link to="/privacy">Privacy Policy</Link></li>
-            <li><Link to="/terms">Terms of Service</Link></li>
-            <li><Link to="/refund">Cancellation & Refund</Link></li>
-            <li><Link to="/shipping">Shipping Policy</Link></li>
+            <li><Link to="/terms">Terms & Conditions</Link></li>
+            <li><Link to="/refund">Refund & Returns Policy</Link></li>
+            <li><Link to="/shipping">Shipping & Delivery Policy</Link></li>
           </ul>
         </div>
 
@@ -67,11 +61,10 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Tokyo Dressing (PUNIT) · GST: 06JCLPP1285E1ZB · All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Tokyo Dressing · GST: 06JCLPP1285E1ZB · All rights reserved.</p>
         <div className="footer-bottom-links">
-          <Link to="/privacy">Privacy</Link>
-          <Link to="/terms">Terms</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/privacy">Privacy Policy</Link>
+          <Link to="/terms">Terms & Conditions</Link>
         </div>
       </div>
     </footer>

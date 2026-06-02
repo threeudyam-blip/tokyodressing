@@ -42,26 +42,6 @@ export default function About() {
         </div>
       </div>
 
-      <div className="team-section">
-        <p className="section-label">The Team</p>
-        <h2 className="section-title">People Behind the Brand</h2>
-        <div className="team-grid">
-          {[
-            { name: 'Punit',          role: 'Founder & Owner',        img: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80' },
-            { name: 'Rohan Mehta',    role: 'Head of Curation',       img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80' },
-            { name: 'Priya Sharma',   role: 'Brand & Marketing',      img: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80' },
-            { name: 'Arjun Nair',     role: 'Operations & Logistics', img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80' },
-          ].map(({ name, role, img }) => (
-            <div key={name} className="team-card">
-              <img src={img} alt={name} />
-              <div className="team-info">
-                <h3>{name}</h3>
-                <p>{role}</p>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
     </div>
   );
 }

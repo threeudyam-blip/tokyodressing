@@ -2,7 +2,7 @@ export default function Terms() {
   return (
     <div className="policy-page">
       <div className="policy-content">
-        <h1>Terms of Service</h1>
+        <h1>Terms & Conditions</h1>
         <p className="policy-date">Last updated: June 1, 2025</p>
 
         <p>Welcome to Tokyo Dressing. By accessing or using our website (tokyodressing.in), you agree to be bound by these Terms of Service. Please read them carefully before placing an order.</p>
@@ -57,7 +57,7 @@ export default function Terms() {
 
         <h2>9. Contact</h2>
         <p>For any queries regarding these Terms:<br />
-          Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
+          Tokyo Dressing · building no. 161 ,Gurgaon road,Manesar,Gurugram,Haryana,122101,Teekli BO,Haryana<br />
           📧 threeudyam@gmail.com · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>

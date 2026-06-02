@@ -53,7 +53,7 @@ export default function Privacy() {
 
         <h2>10. Contact Us</h2>
         <p>For privacy-related questions, please contact:<br />
-          Tokyo Dressing (PUNIT) · Building No. 161, Gurugram Road, Manesar, Gurugram, Haryana – 122101<br />
+          Tokyo Dressing · building no. 161 ,Gurgaon road,Manesar,Gurugram,Haryana,122101,Teekli BO,Haryana<br />
           📧 threeudyam@gmail.com · 📞 +91 97837 83369 · GST: 06JCLPP1285E1ZB
         </p>
       </div>
